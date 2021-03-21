@@ -7,5 +7,7 @@ namespace OOP3
     interface ILoggerSevice
     {
         void Log();
+
+
     }
 }
